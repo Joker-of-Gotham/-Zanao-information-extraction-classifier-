@@ -18,6 +18,7 @@
 特别鸣谢：zidou-kiyn的ZanaoRobot项目，大部分框架来自于该项目，原理类似，方向不同
 
 English:
+
 In this era of increasingly complex information, we have to be forced to view excessive information and fall into the vortex of information. The consequences are reduced efficiency, inner anxiety, and restlessness. Therefore, I decided to create a Zanao Campus Market Information Classifier for information extraction and classification, so that key information will not be missed and you can study with peace of mind.
 
 Extracted content: Specific content of the post Comment information of the post Hot posts in the school Hot posts across schools (continuously updated and improved)
